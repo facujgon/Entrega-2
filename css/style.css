@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700;800&family=Oswald:wght@400;700&display=swap');
+
+html, body {
+    height: 100%;
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(77, 67, 67);
+    background-color: rgb(112, 109, 109);
+}
+
+navbar {
+    padding: 8rem;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+}
+
+.carousel-caption {
+    position: absolute;
+    top: 50%;
+}
+
+.btn-primary {
+    background-color: rgba(0, 0, 255, 0.474);
+    border: rgb(56, 52, 52);
+    
+}
+
+.img-columnas {
+    margin-top: 2rem;
+}
+
+
+.jumbotron {
+    padding: 1rem;
+    border-radius: 0;
+}
+
+.padding {
+    padding-bottom: 2rem;
+}
+
+
+footer {
+    background-color: rgb(44, 42, 42);
+    color: azure;
+    padding-top: 2rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+/* Media queries */
+
+
