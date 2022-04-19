@@ -4,9 +4,9 @@ html, body {
     height: 100%;
     width: 100%;
     font-family: 'Poppins', sans-serif;
-    color: rgb(77, 67, 67);
-    background-color: rgb(112, 109, 109);
+    background-color: rgb(152, 182, 182);    
 }
+
 
 navbar {
     padding: 8rem;
