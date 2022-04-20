@@ -22,6 +22,20 @@ navbar {
     top: 50%;
 }
 
+.carousel-caption2 {
+    position: absolute;
+    bottom: 25%;
+    left: 38%;
+    font-family: 'Poppins';
+}
+
+.carousel-caption3 {
+    position: absolute;
+    font-family: 'Poppins';
+    bottom: 25%;
+    left: 35%;
+}
+
 .btn-primary {
     background-color: rgba(0, 0, 255, 0.474);
     border: rgb(56, 52, 52);
@@ -40,6 +54,19 @@ navbar {
 
 .padding {
     padding-bottom: 2rem;
+}
+
+.social a {
+    font-size: 5rem;
+    padding: 3rem;
+}
+
+.fa-facebook:hover,
+.fa-twitter:hover,
+.fa-google-plus-g:hover,
+.fa-instagram:hover,
+.fa-youtube:hover {
+    color: rgb(124, 115, 115);
 }
 
 
