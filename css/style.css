@@ -20,20 +20,22 @@ navbar {
 .carousel-caption {
     position: absolute;
     top: 50%;
+    transform: translatey(-35%);
 }
+
 
 .carousel-caption2 {
     position: absolute;
-    bottom: 25%;
-    left: 38%;
-    font-family: 'Poppins';
+    top: 50%;
+    right: 30%;
+    
+      
 }
 
 .carousel-caption3 {
     position: absolute;
-    font-family: 'Poppins';
-    bottom: 25%;
-    left: 35%;
+    top: 50%;
+    right: 30%;
 }
 
 .btn-primary {
